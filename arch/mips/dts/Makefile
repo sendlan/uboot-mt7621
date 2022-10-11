@@ -23,6 +23,7 @@ dtb-$(CONFIG_BOARD_MERCURY_MAC2600R) += mercury_mac2600r.dtb
 dtb-$(CONFIG_BOARD_ZTE_E8820V2) += zte_e8820-v2.dtb
 dtb-$(CONFIG_BOARD_H3C_TX180X) += h3c_tx180x.dtb
 dtb-$(CONFIG_BOARD_RAISECOM_MSG1500X) += raisecom_msg1500x.dtb
+dtb-$(CONFIG_BOARD_SIM_AX18T) += sim_ax18t.dtb
 
 targets += $(dtb-y)
 

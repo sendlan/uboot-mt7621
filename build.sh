@@ -15,6 +15,7 @@ Boards=( \
 	zte_e8820-v2 \
 	h3c_tx180x \
 	raisecom_msg1500x \
+	sim_ax18t \
 	)
 
 if [ ! -d "./bin" ]; then
