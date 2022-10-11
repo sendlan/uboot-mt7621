@@ -16,6 +16,7 @@ Boards=( \
 	h3c_tx180x \
 	raisecom_msg1500x \
 	sim_ax18t \
+	xiaomi_cr660x \
 	)
 
 if [ ! -d "./bin" ]; then
